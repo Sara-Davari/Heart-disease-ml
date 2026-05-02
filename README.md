@@ -22,4 +22,4 @@ How it works:
 12. Using confusion matrix to see where the model made mistakes
 13. Determining which columns were more important for the model
 
-Results:
+Results: The model achieved a 82% accuracy on the test data.
