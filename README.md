@@ -23,3 +23,10 @@ How it works:
 13. Determining which columns were more important for the model
 
 Results: The model achieved a 82% accuracy on the test data.
+
+What I learned:
+1. Dataset cleaning
+2. How to use feature importance
+
+Future Developements:
+1. Use a real-life dataset for more accuracy
