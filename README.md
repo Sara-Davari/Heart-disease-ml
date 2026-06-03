@@ -3,7 +3,7 @@ This project uses classification to determine if a person has heart disease base
 
 Input: Age, gender, cp, fbs, restecg, thalach , slope
 
-Model : RandomForestClassifier (RF)
+Model : RF (RandomForestClassifier)
 
 Output: 1 (Healthy) or 0 (Has heart disease)
 
